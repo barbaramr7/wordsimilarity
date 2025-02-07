@@ -2,6 +2,8 @@
 
 To go further in my studies about chatbot development, I've started studying more of Natural Language Processing! This project demonstrates various methods to analyze the similarity between strings using Natural Language Processing (NLP) techniques. The project is implemented in a Jupyter Notebook and includes several similarity metrics such as Levenshtein distance, cosine similarity, Jaccard similarity, and Euclidean distance.
 
+Also, a huge shoutout to my two favorite animes - One Piece and Fullmetal Alchemist! It was a joy using info from them to develop this project.
+
 🔍 NLP String Similarity Analysis
 📖 Introduction
 In this project, we explore different methods to measure the similarity between strings. The goal is to understand how different NLP techniques can be applied to compare texts and determine their similarity. The project includes examples of text segmentation, stopword removal, and various similarity metrics.
